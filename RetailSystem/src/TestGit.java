@@ -9,7 +9,7 @@ public class TestGit {
 	}
 	
 	
-	public static void mani(String []args){
+	public static void main(String []args){
 		new TestGit();
 	}
 
